@@ -20,8 +20,8 @@ const Header = () => {
 
                 <Cart/>
 
-                <a href="" className='text-red-700 font-medium'>Login</a>
-                <a href='' className='bg-red-600 px-5 rounded py-4 font-medium text-white'>Create Account</a>
+                <a href ="login" className='text-red-700 font-medium'>Login</a>
+                <a href='account' className='bg-red-600 px-5 rounded py-4 font-medium text-white'>Create Account</a>
             </div>
 
         </div>
